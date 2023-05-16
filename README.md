@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Malik
-- 🌱 I’m currently learning react and typescript.
-- 💻 I’m looking to collaborate with others on Reactjs and Typescript.
+- 🌱 I’m currently learning Pyhton and Flask.
+- 💻 I’m looking to collaborate with others on Python Programming.
 
 <!---
 mjones97/mjones97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
