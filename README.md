@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Malik
-- 🌱 I’m currently learning Pyhton and Flask.
+- 🌱 I’m currently learning Python and Flask.
 - 💻 I’m looking to collaborate with others on Python Programming.
 
 <!---
