@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Malik
-- 🌱 I’m currently learning Python and Django.
-- 💻 I’m looking to collaborate with others on Python Programming.
+- 🌱 I’m currently learning React.
+- 💻 I’m looking to collaborate with others on React Programming.
 
 <!---
 mjones97/mjones97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
